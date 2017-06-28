@@ -74,13 +74,14 @@ License: Apache License 2.0 (see LICENSE-Apache-2.0.txt)
 ### SRP (Secure Remote Password)
 
 Original Repository: https://github.com/cocagne/csrp
+
 Conversion to mbedTLS: https://github.com/dwimberger/mbedtls-csrp
 
 Patches by:
 
-    - https://github.com/ksjoberg/csrp.git
-    - https://github.com/damv/mbedtls-csrp
-    - https://github.com/dunkelstern/mbedtls-csrp
+- https://github.com/ksjoberg/csrp.git
+- https://github.com/damv/mbedtls-csrp
+- https://github.com/dunkelstern/mbedtls-csrp
 
 License: MIT (see LICENSE-MIT.txt)
 
